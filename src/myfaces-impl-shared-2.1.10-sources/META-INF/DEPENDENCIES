@@ -1,0 +1,21 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache MyFaces Core For JSF 2.1 - Shared
+
+
+From: 'The Apache Software Foundation' (http://jakarta.apache.org)
+  - Codec (http://jakarta.apache.org/commons/codec/) commons-codec:commons-codec:jar:1.3
+    License: The Apache Software License, Version 2.0  (/LICENSE.txt)
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache MyFaces JSF-2.1 Core API (http://myfaces.apache.org/core21/myfaces-api) org.apache.myfaces.core:myfaces-api:jar:2.1.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache MyFaces Shared Public API For JSF 2.1 - Core (http://myfaces.apache.org/core21/myfaces-impl-shared-public) org.apache.myfaces.core.internal:myfaces-impl-shared-public:jar:2.1.10
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
